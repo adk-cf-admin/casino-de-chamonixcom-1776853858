@@ -1,0 +1,202 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#ffffff",
+            "lang-select-color": "#222829",
+            "bg-light": "#ffffff",
+            "welcome-bonus-bg": "#ffffff",
+            "top-games-hover-fg": "#000000",
+            "main-bg": "#CAC5B8",
+            "text": "#AD413F",
+            "text-black": "#000000",
+            "table-head": "#928f87",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#928f87",
+            "yellow-button": "#AD413F",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#ffffff",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#928f87",
+            "providers-back": "#928f87",
+            "faq-label": "#ffffff",
+            "bg-footer": "#928f87",
+            "copyright": "#e7e7d5",
+            "starColor": "#AD413F",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6548"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6546",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino De Chamonix"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6549",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino De Chamonix"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Casino De Chamonix",
+                    "title": "Casino de Chamonix : Présentation du casino, fonctionnalités et informations de paiement",
+                    "description": "Découvrez Casino de Chamonix à travers une présentation structurée et centrée sur l’utilisateur, fondée uniquement sur des informations vérifiées, avec un aperçu clair des caractéristiques et du statut des paiements.",
+                    "canonical": "casino-de-chamonix.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6550",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-de-chamonix.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6551"
+                },
+                "hero": {
+                    "title": "Présentation de Casino de Chamonix pour nos clients",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6552",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6553",
+                    "mobileImageSizeModifier": -4,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Activer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Identité de marque claire et mémorable",
+                        "Approche vérifiée renforçant la confiance utilisateur",
+                        "Structure orientée client pour lecture rapide",
+                        "Ton cohérent valorisant notre qualité de service",
+                        "Mise en page utile pour choix éclairé"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Casino de Chamonix App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6554",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Casino de Chamonix App",
+                    "mobileGooglePlayImageTitle": "Casino de Chamonix App",
+                    "mobileIosImageTitle": "Casino de Chamonix App"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "À propos du casino",
+                        "description1": "Faits intéressants",
+                        "items": [
+                            "Notre espace de jeu comprend 48 machines à sous : 30 rouleaux vidéo, 11 rouleaux mécaniques et 7 machines de poker.",
+                            "Nous proposons 34 postes de jeux électroniques, avec notamment 24 postes de roulette anglaise électronique et 2 black jack électroniques",
+                            "Notre offre de jeux de table comprend 3 tables : 1 Ultimate Texas Hold’Em Progressif et 2 Black Jack."
+                        ],
+                        "description2": "Chez Casino de Chamonix, nous présentons notre marque avec une attention rigoureuse portée aux informations confirmées. Cela crée une expérience de lecture claire et fiable pour nos clients, surtout lorsqu’ils souhaitent évaluer le profil de notre casino sans distractions, suppositions ni éléments non vérifiés.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6555",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "Casino de Chamonix",
+                        "description3": "À ce stade, notre donnée vérifiée se concentre sur le nom Casino de Chamonix, ce qui rend notre communication précise et maîtrisée. Pour nos clients, ce niveau de clarté agit comme un signal de confiance, car la hiérarchie de l’information reste facile à suivre, le ton est cohérent et chaque élément visible soutient une prise de décision sereine.\n\nNous comprenons également que de nombreux visiteurs consultent une page de casino avec une intention pratique. Ils veulent identifier rapidement la marque, parcourir une structure lisible et comprendre ce qui est confirmé à ce jour. C’est pourquoi nous gardons une présentation ciblée, positive et alignée sur une logique de service."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Caractéristiques du casino",
+                        "description": "<p>Dans notre casino, nous réunissons tout ce qu’il faut pour vivre une sortie élégante, divertissante et simple à organiser au cœur de Chamonix. Nous vous accueillons dans un cadre central, avec un parking privé gratuit réservé à notre clientèle et un accès pratique depuis la rue du Lyret. Chez nous, chaque détail est pensé pour rendre votre visite fluide, agréable et immédiatement orientée vers le plaisir du jeu et de la détente.<\/p>\n\n<br>\n\n<p>Notre offre de jeux est conçue pour satisfaire aussi bien les amateurs d’ambiance classique que les joueurs en quête de formats plus dynamiques. Nous mettons à votre disposition 3 tables de jeux avec l’Ultimate Texas Hold’em Progressif et le Black Jack, 34 postes de jeux électroniques, ainsi qu’un espace machines à sous riche en sensations. Avec 48 machines à sous réparties entre rouleaux vidéos, rouleaux mécaniques et vidéo poker, nous proposons une expérience variée, immersive et accessible à tous les styles de jeu.<\/p>\n\n<br>\n\n<p>Chez nous, l’expérience ne s’arrête pas aux jeux. Nous vous accueillons aussi dans deux espaces bar aux ambiances complémentaires. Le Royal Bar, situé à l’accueil, offre un cadre chaleureux et convivial, idéal pour commencer la soirée dans une atmosphère détendue. Au cœur de notre espace jeux, le Bar des Sports prolonge l’énergie du casino avec une sélection variée de boissons pour accompagner chaque moment fort.<\/p>\n\n<br>\n\n<p>Nous faisons également vivre notre casino au rythme d’animations régulières, d’offres exclusives et de temps forts qui enrichissent chaque visite. Notre agenda met en avant des opérations spéciales, des cocktails offerts, des cadeaux instantanés, ainsi que des offres attractives comme Royal Cash Back et Royal Bonus. Nous créons ainsi une expérience toujours vivante, où le jeu, l’ambiance et les avantages se rejoignent pour vous offrir encore plus de plaisir sur place.<\/p>\n\n<br>\n\n<p>Nous valorisons aussi les moments gourmands et les temps forts événementiels dans notre programmation, afin de rendre chaque sortie encore plus complète. Notre objectif est de vous proposer bien plus qu’une simple session de jeu : chez nous, vous profitez d’un lieu de sortie où l’ambiance, les services sur place et la variété de l’offre contribuent à une expérience confortable, conviviale et mémorable.<\/p>\n\n<br>\n\n<p>En choisissant notre casino, vous profitez d’un établissement facile d’accès, dynamique et pensé pour le plaisir du visiteur. Entre les jeux de table, les jeux électroniques, les machines à sous, les bars, les animations et nos offres spéciales, nous vous proposons une destination de loisirs complète à Chamonix, avec une organisation claire et une expérience sur place tournée vers le confort, l’énergie et la qualité.<\/p>\n\n<br>\n\n<div style=\"width:100%; max-width:100%; overflow:hidden;\">\n  <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#000000; background:transparent;\">\n    \n    <tr>\n      <th style=\"width:38%; border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Caractéristique\n      <\/th>\n      <th style=\"width:62%; border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Disponibilité dans notre casino\n      <\/th>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Parking privé\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Parking privé gratuit réservé à notre clientèle\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Jeux de table\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        3 tables de jeux : 1 Ultimate Texas Hold’em Progressif et 2 Black Jack\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Jeux électroniques\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        34 postes de jeux avec roulettes anglaises électroniques et black jack électroniques\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Machines à sous\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        48 machines à sous : rouleaux vidéos, rouleaux mécaniques et vidéo poker\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Bars\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        2 bars sur place : Royal Bar à l’accueil et Bar des Sports dans l’espace jeux\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Bonus et offres\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Animations régulières, Royal Cash Back, Royal Bonus et cadeaux promotionnels selon nos temps forts\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Ambiance et événements\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Agenda d’animations, soirées à thème, cocktails offerts et avantages ponctuels en salle\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Infos pratiques\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Ouvert du mercredi au dimanche de 19h00 à 01h00, avec pièce d’identité obligatoire\n      <\/td>\n    <\/tr>\n\n  <\/table>\n<\/div>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Fournisseurs de logiciels"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Ambiance, services et animations",
+                        "description": "<p>Dans notre casino, nous mettons aussi l’accent sur l’ambiance, la convivialité et la qualité de l’accueil. Nous voulons que chaque visite soit simple à organiser, agréable à vivre et riche en moments à partager. Grâce à notre emplacement central à Chamonix, à nos informations pratiques claires et à notre contact direct sur place, nous proposons une expérience pensée pour le confort du visiteur du début à la fin.<\/p>\n\n<br>\n\n<p>Nos bars font pleinement partie de cette expérience. Au Royal Bar, situé à l’accueil, nous vous recevons dans une atmosphère chaleureuse et détendue, idéale pour se retrouver, échanger et profiter d’un moment agréable autour de notre carte de boissons. Cet espace est accessible librement, sans présentation de pièce d’identité, ce qui en fait une adresse particulièrement pratique pour prolonger la convivialité en toute simplicité.<\/p>\n\n<br>\n\n<p>Au cœur de notre espace jeux, notre Bar des Sports apporte une énergie différente, plus animée et plus immersive. Nous y associons l’ambiance du sport à l’élégance du casino, avec une large sélection de boissons pensée pour accompagner les temps forts de la soirée. Avec ces deux univers complémentaires, nous créons une expérience flexible, capable de s’adapter à toutes les envies, qu’il s’agisse d’un moment calme ou d’une soirée plus dynamique.<\/p>\n\n<br>\n\n<p>Nous faisons aussi vivre notre casino à travers un agenda régulier d’animations, d’offres exclusives et de rendez-vous saisonniers. Tout au long de l’année, nous proposons des soirées thématiques, des cocktails offerts, des opérations spéciales et des avantages ponctuels qui enrichissent chaque visite. Cette programmation donne à notre établissement un rythme vivant et attractif, avec des occasions régulières de découvrir une ambiance renouvelée et des temps forts pensés pour nos visiteurs.<\/p>\n\n<br>\n\n<p>Notre vision de l’expérience client repose également sur un cadre serein et responsable. Chez nous, le jeu reste un plaisir, et nous avons mis en place une organisation dédiée au jeu responsable. Nos équipes, spécialement formées sur ce sujet, accompagnent nos visiteurs avec attention afin que chacun profite d’un moment convivial, équilibré et rassurant dans notre établissement.<\/p>\n\n<br>\n\n<p>Nous soignons enfin la dimension pratique de la visite avec des repères utiles et accessibles : adresse claire, contact téléphonique direct, réseaux sociaux officiels et informations sur place faciles à consulter. Tout cela renforce la lisibilité de notre offre et permet à chacun de préparer sa venue avec confiance, dans un cadre où l’accueil, l’ambiance et la qualité du service occupent une place centrale.<\/p>\n\n<br>\n\n<div style=\"width:100%; max-width:100%; overflow:hidden;\">\n  <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#000000; background:transparent;\">\n    \n    <tr>\n      <th style=\"width:38%; border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Service ou information\n      <\/th>\n      <th style=\"width:62%; border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Disponibilité dans notre casino\n      <\/th>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Emplacement\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Notre casino est situé au 12 place H.B de Saussure, 74400 Chamonix-Mont-Blanc\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Royal Bar\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Situé à l’accueil, dans une ambiance chaleureuse et accessible librement sans présentation de pièce d’identité\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Bar des Sports\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Situé au cœur de notre espace jeux, avec une ambiance plus dynamique et une large sélection de boissons\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Carte des boissons\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Nouvelle carte disponible dans nos deux bars\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Agenda des animations\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Programme régulier avec animations mensuelles, soirées thématiques et temps forts saisonniers\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Offres spéciales\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Offres exclusives, cocktails offerts et opérations ponctuelles selon notre calendrier d’animations\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Jeu responsable\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Organisation dédiée au jeu responsable avec des équipes spécialement formées pour accompagner nos visiteurs\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Contact\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Téléphone direct : 04 50 53 07 65\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Réseaux sociaux\n      <\/td>\n      <td style=\"border:1px solid #000000; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#000000; background:transparent; word-break:break-word;\">\n        Présence officielle sur Instagram et Facebook pour suivre notre actualité\n      <\/td>\n    <\/tr>\n\n  <\/table>\n<\/div>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Où se situe notre casino ?",
+                            "answer": "Notre casino se situe au 12 Place H.B de Saussure, 74400 Chamonix-Mont-Blanc."
+                        },
+                        {
+                            "title": "Quels sont nos horaires actuels ?",
+                            "answer": "Nous accueillons nos clients du mercredi au dimanche de 19h00 à 01h00, et nous sommes fermés le lundi et le mardi depuis le 6 avril 2026."
+                        },
+                        {
+                            "title": "Quelle est notre offre de jeux confirmée ?",
+                            "answer": "Notre offre confirmée comprend 48 machines à sous, 34 postes de jeux électroniques et 3 tables de jeux."
+                        },
+                        {
+                            "title": "Quels jeux de table proposons-nous ?",
+                            "answer": "Nous proposons 1 table d’Ultimate Texas Hold’Em Progressif et 2 tables de Black Jack, avec ouverture des jeux de table du mercredi au dimanche à partir de 19h30."
+                        },
+                        {
+                            "title": "Quelles conditions pratiques nos clients doivent-ils connaître avant leur visite ?",
+                            "answer": "Un parking privé gratuit est réservé à la clientèle, et une pièce d’identité est obligatoire pour accéder à notre casino."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
